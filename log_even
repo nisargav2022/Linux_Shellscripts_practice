@@ -1,0 +1,3 @@
+var1="Nisarga"
+var3="987654321"
+echo "This is my phone number $var3"

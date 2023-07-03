@@ -1,0 +1,7 @@
+
+echo "This is my phone number $var3"
+echo "This is $var1 and Iam from $var2"
+var3="987654321"
+var2="Chikkamagalore"
+var1="Nisarga"
+#!/bin/bash

@@ -1,0 +1,4 @@
+#!/bin/bash
+var2="Chikkamagalore"
+echo "This is $var1 and Iam from $var2"
+
